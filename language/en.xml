@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd" languagecode="en" languagename="English" countrycode="gb">
-	<category name="wcf.uztracker">
-		<item name="wcf.uztracker.config.contentQuiz"><![CDATA[Quiz]]></item>
-		
-		<item name="wcf.uztracker.description.quiz.solve"><![CDATA[Quiz solved]]></item>
-		<item name="wcf.uztracker.description.quiz.question.add"><![CDATA[Question created]]></item>
-		<item name="wcf.uztracker.description.quiz.question.delete"><![CDATA[Question deleted]]></item>
-		<item name="wcf.uztracker.description.quiz.question.update"><![CDATA[Question updated]]></item>
-		<item name="wcf.uztracker.description.quiz.rating.rate"><![CDATA[Quiz rated]]></item>
-		<item name="wcf.uztracker.description.quiz.rating.unrate"><![CDATA[Quiz unrated]]></item>
-		
-		<item name="wcf.uztracker.page.quizQuestionAdd"><![CDATA[Add question]]></item>
-		<item name="wcf.uztracker.page.quizQuestionEdit"><![CDATA[Edit question]]></item>
-		<item name="wcf.uztracker.page.rssFeedQuiz"><![CDATA[RSS Quiz]]></item>
-	</category>
+    <category name="wcf.uztracker">
+        <item name="wcf.uztracker.config.contentQuiz"><![CDATA[Quiz]]></item>
+
+        <item name="wcf.uztracker.description.quiz.solve"><![CDATA[Quiz solved]]></item>
+        <item name="wcf.uztracker.description.quiz.question.add"><![CDATA[Question created]]></item>
+        <item name="wcf.uztracker.description.quiz.question.delete"><![CDATA[Question deleted]]></item>
+        <item name="wcf.uztracker.description.quiz.question.update"><![CDATA[Question updated]]></item>
+        <item name="wcf.uztracker.description.quiz.rating.rate"><![CDATA[Quiz rated]]></item>
+        <item name="wcf.uztracker.description.quiz.rating.unrate"><![CDATA[Quiz unrated]]></item>
+
+        <item name="wcf.uztracker.page.quizQuestionAdd"><![CDATA[Add question]]></item>
+        <item name="wcf.uztracker.page.quizQuestionEdit"><![CDATA[Edit question]]></item>
+        <item name="wcf.uztracker.page.rssFeedQuiz"><![CDATA[RSS Quiz]]></item>
+    </category>
 </language>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/eventListener.xsd">
-	<import>
-		<eventlistener name="trackerQuiz">
-			<eventclassname>wcf\data\quiz\QuizAction</eventclassname>
-			<eventname>finalizeAction</eventname>
-			<environment>user</environment>
-			<listenerclassname>wcf\system\event\listener\TrackerQuizListener</listenerclassname>
-		</eventlistener>
-		<eventlistener name="trackerQuizQuestion">
-			<eventclassname>wcf\data\quiz\question\QuestionAction</eventclassname>
-			<eventname>finalizeAction</eventname>
-			<environment>user</environment>
-			<listenerclassname>wcf\system\event\listener\TrackerQuizQuestionListener</listenerclassname>
-		</eventlistener>
-		<eventlistener name="trackerQuizRating">
-			<eventclassname>wcf\data\quiz\rating\RatingAction</eventclassname>
-			<eventname>finalizeAction</eventname>
-			<environment>user</environment>
-			<listenerclassname>wcf\system\event\listener\TrackerQuizRatingListener</listenerclassname>
-		</eventlistener>
-	</import>
+    <import>
+        <eventlistener name="trackerQuiz">
+            <eventclassname>wcf\data\quiz\QuizAction</eventclassname>
+            <eventname>finalizeAction</eventname>
+            <environment>user</environment>
+            <listenerclassname>wcf\system\event\listener\TrackerQuizListener</listenerclassname>
+        </eventlistener>
+        <eventlistener name="trackerQuizQuestion">
+            <eventclassname>wcf\data\quiz\question\QuestionAction</eventclassname>
+            <eventname>finalizeAction</eventname>
+            <environment>user</environment>
+            <listenerclassname>wcf\system\event\listener\TrackerQuizQuestionListener</listenerclassname>
+        </eventlistener>
+        <eventlistener name="trackerQuizRating">
+            <eventclassname>wcf\data\quiz\rating\RatingAction</eventclassname>
+            <eventname>finalizeAction</eventname>
+            <environment>user</environment>
+            <listenerclassname>wcf\system\event\listener\TrackerQuizRatingListener</listenerclassname>
+        </eventlistener>
+    </import>
 </data>
